@@ -1,0 +1,25 @@
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+## App
+tmp/
+pdf/
+cards/
+vosk_model/
+models/
+
+# aider IA
+.aider*
+
+## base contextuelle des interactions avec un email
+emails/
+logs.txt
+email_dataset.json
